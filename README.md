@@ -1,16 +1,15 @@
 ## Hi there 👋
+I'm Bibek Ghimire
+An individual with a passion dealing with Data
 
-<!--
-**beebeck/beebeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Data Analysis Program
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Data Analysis Tools and Methodologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on Data Analysis
+
+🤝 I’m looking for help with Entry Level Position
+
+👨‍💻 All of my projects are available at https://github.com/beebeck
+
+📫 How to reach me ghimirebeebeck211@gmail.com
