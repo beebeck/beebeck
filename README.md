@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Bibek Ghimire
+I'm Bibek Ghimire.
 An individual with a passion dealing with Data
 
 🔭 I’m currently working on Data Analysis Program
